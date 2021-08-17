@@ -2,6 +2,7 @@
 #writen/coded/by/Uzairkhan
 
 try:
+Python2 UzairAfridi005.py
 
     import os,sys,time,datetime,re,random,hashlib,threading,json,getpass,urllib,cookielib,requests
 
